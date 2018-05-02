@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuickTools</string>
+    <string name="app_greeting">GOOD MORNING</string>
+    <string name="app_title">QUICK TOOLS</string>
+    <string name="app_back">Application Back</string>
+    <string name="comapp_dec">Compass Arrow</string>
+    <string name="torch_icon_dec">Torch Icon</string>
+    <string name="cal_operation_text">1000+250+250-1000</string>
+    <string name="cal_answer_text">5002</string>
+    <string name="todo">ToDo</string>
+    <string name="addTodo">Add</string>
+    <string name="todoWork">Add work</string>
+    <string name="cal_btn_ac">AC</string>
+    <string name="cal_btn_plus_minus">+/-</string>
+    <string name="cal_btn_percentage">%</string>
+    <string name="cal_btn_devide">/</string>
+
+    <string name="cal_btn_nine">9</string>
+    <string name="cal_btn_eight">8</string>
+    <string name="cal_btn_seven">7</string>
+    <string name="cal_btn_add">+</string>
+
+    <string name="cal_btn_six">6</string>
+    <string name="cal_btn_five">5</string>
+    <string name="cal_btn_four">4</string>
+    <string name="cal_btn_sub">-</string>
+
+    <string name="cal_btn_three">3</string>
+    <string name="cal_btn_two">2</string>
+    <string name="cal_btn_one">1</string>
+    <string name="cal_btn_multi">X</string>
+
+    <string name="cal_btn_erase">B</string>
+    <string name="cal_btn_zero">0</string>
+    <string name="cal_btn_decimal">.</string>
+    <string name="cal_btn_equal">=</string>
+</resources>

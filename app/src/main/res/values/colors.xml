@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackGroundDark">#1f242c</color>
+    <color name="WhiteColor">#FFFFFF</color>
+    <color name="orangee15f54">#e15f54</color>
+    <color name="purpled058e8">#d058e8</color>
+    <color name="redf47474">#7bb4f7</color>
+    <color name="green25cb83">#25cb83</color>
+    <color name="cal_btn_press">#595e63</color>
+    <color name="cal_button">#484f59</color>
+</resources>
